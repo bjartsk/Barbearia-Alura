@@ -1,7 +1,7 @@
 <h1 align="center"><strong>:barber:Barbearia Alura:barber:</strong></h1>
 
 
-*Projeto em andamento :bus:*
+*Projeto em andamento* :bus:
 
 
 ### Sobre o projeto
