@@ -21,9 +21,7 @@ Nesse projeto acompanho o instrutor [Pedro Marins](https://www.linkedin.com/in/p
 
 A página da web apresenta cabeçalho, imagens, descrição da missão e benefícios da barbearia.
 
-
-<p align="center"><img src="video-barbearia.gif" alt= "Gif animado do site da barbearia alura mostrando inicialmente Barbearia Alura ao lado esquerdo superior e uma imagem de uma barbearia ocupando o restante da tela. A medida que o vídeo vai descendo é mostrado um retângulo cinza contendo um texto sobre a barbearia e abaixo os benefícios colocados no lado esquerdo da tela e uma imagem de uma pessoa sendo barbeada no lado direito da tela." />
-</p>
+![Gif do site da barbearia alura mostrando inicialmente Barbearia Alura ao lado esquerdo superior e uma imagem de uma barbearia ocupando o restante da tela. A medida que o vídeo vai descendo é mostrado um retângulo cinza contendo um texto sobre a barbearia e abaixo os benefícios colocados no lado esquerdo da tela e uma imagem de uma pessoa sendo barbeada no lado direito da tela](https://imgur.com/nptgj9Y.gif)
 
 ### :unlock: Como executar
 
