@@ -1,9 +1,5 @@
 <h1 align="center"><strong>:barber:Barbearia Alura:barber:</strong></h1>
 
-
-*Projeto em andamento* :bus:
-
-
 ### Sobre o projeto
 Nesse projeto acompanho o instrutor [Pedro Marins](https://www.linkedin.com/in/pedromarins/) no desenvolvimento de um website. Durante o curso de [HTML e CSS parte 1: crie uma página da Web](https://cursos.alura.com.br/course/html5-css3-primeiros-passos) da plataforma [Alura](https://www.alura.com.br/), os conceitos iniciais de HTML e CSS são apresentados em conceito e prática, introduzindo vocabulário e habilidades de desenvolvimento através dessas tecnologias.
 
@@ -35,3 +31,7 @@ Nesse projeto as seguintes tecnologias foram utilizadas
 
 <img height="30em" src="https://img.shields.io/badge/HTML5-643194?style=for-the-badge&logo=html5&logoColor=F2F2F2">
 <img height="30em" src="https://img.shields.io/badge/CSS3-643194?style=for-the-badge&logo=css3&logoColor=F2F2F2">
+
+---
+
+O projeto completo está [aqui](https://github.com/bjartsk/Barbearia-Alura-2)!
